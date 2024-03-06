@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Material Search</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div id="titleContainer">
+    <h1>Materials Explorer</h1>
+    <h2>Search for materials information by chemistry, composition, or property.</h2>
+    <div id="searchContainer">
+      <input id="searchInput" type="text" placeholder="You can search by elements (Dy, C), formula (DyCo2), and Curie temperature in Kelvin (10 - 100).">
+      <input type="file" id="csvFile" accept=".csv" onchange="readCSV()">
+    </div>
+    <div id="searchButtons">
+      <button id="searchButton1">Search by Elements</button>
+      <button id="searchButton2">Search by Formula</button>
+      <button id="searchButton3">Search by Curie Temperature</button>
+    </div>
+    <nav> 
+      <a href="index.html">Home</a> |
+      <a href="authors.html">Authors</a>
+    </nav>
+  </div>
+  <div id="output"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>

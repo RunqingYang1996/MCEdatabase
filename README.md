@@ -11,8 +11,11 @@ modified725.csv: raw data extrated using GPT3.5 turbo，a databse which conatins
 updated_725.csv in html folder: human-corrected version of modified725.csv. 
 
 contribution:
+
 paper : Jiaoyue Yuan, Runqing Yang, Lokanath Patra and Bolin Liao
+
 databse: Runqing Yang
+
 html and css: Xuchao Chen, Runqing Yang
 
 

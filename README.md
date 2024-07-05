@@ -8,6 +8,13 @@ modified1426.csv: raw data extrated using GPT3.5 turbo，a databse which contain
 
 modified725.csv: raw data extrated using GPT3.5 turbo，a databse which conatins Material name, ∆SM and TC , there is a Project ID for every listed material.
 
+updated_725.csv in html folder: human-corrected version of modified725.csv. 
+
+contribution:
+paper : Jiaoyue Yuan, Runqing Yang, Lokanath Patra and Bolin Liao
+databse: Runqing Yang
+html and css: Xuchao Chen, Runqing Yang
+
 
 
 

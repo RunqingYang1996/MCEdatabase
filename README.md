@@ -14,7 +14,7 @@ contribution:
 
 paper : Jiaoyue Yuan, Runqing Yang, Lokanath Patra and Bolin Liao
 
-databse: Runqing Yang
+database: Runqing Yang
 
 html and css: Xuchao Chen, Runqing Yang
 
